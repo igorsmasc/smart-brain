@@ -8,7 +8,6 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition.js';
 import SignIn from './components/SignIn/SignIn'
 import Register from './components/Register/Register'
 
-
 import './App.css';
 import Particles from 'react-particles-js';
 
